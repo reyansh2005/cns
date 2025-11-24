@@ -1,0 +1,1 @@
+BufferedReader in=new BufferedReader(new InputStreamReader(s.getInputStream()));
